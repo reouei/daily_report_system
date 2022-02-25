@@ -30,11 +30,6 @@ h2 {
     margin-bottom: 15px;
 }
 
-select {
-    height: 30px;
-}
-
-
 table#employee_list th {
     width: 30%;
     padding: 10px 2%;
@@ -94,4 +89,8 @@ button {
 
 #footer {
     text-align: center;
+}
+
+select {
+    height: 30px;
 }
